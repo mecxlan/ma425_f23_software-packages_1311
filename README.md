@@ -16,3 +16,11 @@ dsolve
 
 Numerical Solution
 Lorenz Equations
+
+Eular Equaiton
+bvp4c
+Linear Shooting Method
+
+Pde toolbox
+
+Simulink
